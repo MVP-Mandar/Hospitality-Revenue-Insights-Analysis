@@ -1,4 +1,4 @@
-# 🏨 AtliQ Grands — Hospitality Revenue Analysis Dashboard
+# 🏨 AtliQ Grands — Hospitality Revenue Analysis
 
 ## 📌 Project Overview
 
@@ -53,7 +53,7 @@ This project uses **Power BI and data analytics** to transform hotel booking and
 
 ### 1. Data Model View
 
-![Power BI Data Model](Data Modelling.png)
+![Power BI Data Model](Data_Modelling.png)
 
 ### 2. Dashboard Overview
 
